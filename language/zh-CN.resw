@@ -600,9 +600,6 @@
   <data name="NoWordPressConfigTip" xml:space="preserve">
     <value>您没有配置WordPress账户，请在软件设置内添加</value>
   </data>
-  <data name="AuthorComboBoxTipTextBlock.Text" xml:space="preserve">
-    <value>用户选择</value>
-  </data>
   <data name="LineHeightTipTextBlock.Text" xml:space="preserve">
     <value>行高设置</value>
   </data>

@@ -417,9 +417,6 @@
   <data name="NewStyleSheetTip" xml:space="preserve">
     <value>New completion and auto-fill default style</value>
   </data>
-  <data name="AuthorTipTextBlock.Text" xml:space="preserve">
-    <value>Author</value>
-  </data>
   <data name="BasicSettingTitleTextBlock.Text" xml:space="preserve">
     <value>Basic Settings</value>
   </data>
@@ -683,5 +680,8 @@
   </data>
   <data name="UpdateTitle" xml:space="preserve">
     <value>Update information</value>
+  </data>
+  <data name="WordPressAuthorizeCodeDialogTitle" xml:space="preserve">
+    <value>WordPress Authorization Code</value>
   </data>
 </root>
