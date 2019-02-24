@@ -7,12 +7,12 @@ html {
 body {
     margin: 0;
     color: #2c3e50;
+    writing-mode: vertical-rl;
 }
 
 #preview-container {
     max-width: 100vw;
   max-height:100%;
-  writing-mode: vertical-rl;
   overflow-y:hidden;
 }
 
