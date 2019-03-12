@@ -118,570 +118,572 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddNewPictureTextBlock.Text" xml:space="preserve">
-    <value>Add new image</value>
+    <value>Добавить новое изображение</value>
   </data>
   <data name="AddNoteButtonTextBlock.Text" xml:space="preserve">
-    <value>New Note</value>
+    <value>Новая заметка</value>
   </data>
   <data name="AllNote" xml:space="preserve">
-    <value>All notes</value>
+    <value>Все заметки</value>
   </data>
   <data name="AppManagerButtonContentTextBlock.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>Настройки</value>
   </data>
   <data name="BuildToggleButton.Content" xml:space="preserve">
-    <value>New</value>
+    <value>Создать</value>
   </data>
   <data name="BuiltGroup" xml:space="preserve">
-    <value>Built Group</value>
+    <value>Создать группу</value>
   </data>
   <data name="BuiltNewGroupTextBlock.Text" xml:space="preserve">
-    <value>Create new group</value>
+    <value>Создать новую группу</value>
   </data>
   <data name="BuiltNote" xml:space="preserve">
-    <value>Built Note</value>
+    <value>Создать заметку</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Отмена</value>
   </data>
   <data name="Change" xml:space="preserve">
-    <value>Change</value>
+    <value>Изменить</value>
   </data>
   <data name="ChangeMenuItem.Text" xml:space="preserve">
-    <value>Change</value>
+    <value>Изменить</value>
   </data>
   <data name="CloudNull.PlaceholderText" xml:space="preserve">
-    <value>Or not</value>
+    <value>Или нет</value>
   </data>
   <data name="CloudProject" xml:space="preserve">
-    <value>Cloud Project</value>
+    <value>Облачный проект</value>
   </data>
   <data name="CloudProjectRadioButton.Content" xml:space="preserve">
-    <value>Cloud</value>
+    <value>Облако</value>
   </data>
   <data name="ColorPickerTipTextBlock.Text" xml:space="preserve">
-    <value>Color Pick</value>
+    <value>Выбор цвета</value>
   </data>
   <data name="CurrentProjectTextBlock.Text" xml:space="preserve">
-    <value>Current project</value>
+    <value>Текущий проект</value>
   </data>
   <data name="DecryptRadioButton.Content" xml:space="preserve">
-    <value>None</value>
+    <value>Ничего</value>
   </data>
   <data name="Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Удалить</value>
   </data>
   <data name="DeleteGroupTip" xml:space="preserve">
-    <value>You will delete the group and all entries in the group will be cleared (source files will not be affected). Are you sure?</value>
+    <value>Вы удалите группу и все записи в группе будут также удалены (исходные файлы затронуты не будут). Продолжить?</value>
   </data>
   <data name="DeleteMenuItem.Text" xml:space="preserve">
-    <value>Delete</value>
+    <value>Удалить</value>
   </data>
   <data name="DeleteNoteTip" xml:space="preserve">
-    <value>You will delete this note. Please choose the way to deal with it.</value>
+    <value>Вы собираетесь удалить заметку. Как вы хотите с ней поступить?</value>
   </data>
   <data name="DeleteProjectTip" xml:space="preserve">
-    <value>You will delete the project, all groups and notes in the project will be cleared (source files are not affected). Are you sure?</value>
+    <value>Вы собираетесь удалить проект, все группы и заметки внутри проекта будут удалены (исходные файлы затронуты не будут). Продолжить?</value>
   </data>
   <data name="DeleteStyleSheetTip" xml:space="preserve">
-    <value>You will delete this style. Are you sure?</value>
+    <value>Вы удалите этот стиль. Вы уверенны?</value>
   </data>
   <data name="DeleteSuccessTip" xml:space="preserve">
-    <value>Deleted</value>
+    <value>Удалено</value>
   </data>
   <data name="DeleteSwipe.Text" xml:space="preserve">
-    <value>Delete</value>
+    <value>Удалить</value>
   </data>
   <data name="DeleteTemplate" xml:space="preserve">
-    <value>You will delete this template. Are you sure?</value>
+    <value>Вы удалите этот шаблон. Вы уверенны?</value>
   </data>
   <data name="DeleteTip" xml:space="preserve">
-    <value>Delete Warning</value>
+    <value>Удалить предупреждение</value>
   </data>
   <data name="DeveloperNewsTextBlock.Text" xml:space="preserve">
-    <value>Developer news</value>
+    <value>Новости разработки</value>
   </data>
   <data name="EncryptRadioButton.Content" xml:space="preserve">
-    <value>Encrypt</value>
+    <value>Зашифровать</value>
   </data>
   <data name="FieldNullOrEmpty" xml:space="preserve">
-    <value>Field cannot be empty</value>
+    <value>Поле не может быть пустым</value>
   </data>
   <data name="GroupComboTipTextBlock.Text" xml:space="preserve">
-    <value>Choose Group</value>
+    <value>Выбрать группу</value>
   </data>
   <data name="GroupListTextBlock.Text" xml:space="preserve">
-    <value>Group list</value>
+    <value>Список групп</value>
   </data>
   <data name="GroupNameTipTextBlock.Text" xml:space="preserve">
-    <value>Group Name</value>
+    <value>Имя группы</value>
   </data>
   <data name="ImportPath" xml:space="preserve">
-    <value>Import Path</value>
+    <value>Импортировать путь</value>
   </data>
   <data name="ImportToggleButton.Content" xml:space="preserve">
-    <value>Import</value>
+    <value>Импорт</value>
   </data>
   <data name="IsEncryptTextBlock.Text" xml:space="preserve">
-    <value>Encrypt options</value>
+    <value>Настройки шифрования</value>
   </data>
   <data name="LastestOpenTextBlock.Text" xml:space="preserve">
-    <value>Recently</value>
+    <value>Недавние</value>
   </data>
   <data name="LocalProject" xml:space="preserve">
-    <value>Local Project</value>
+    <value>Локальные проекты</value>
   </data>
   <data name="LocalProjectRadioButton.Content" xml:space="preserve">
-    <value>Local</value>
+    <value>Локально</value>
   </data>
   <data name="ManagerTextBlock.Text" xml:space="preserve">
-    <value>Manager</value>
+    <value>Менеджер</value>
   </data>
   <data name="ModifyGroup" xml:space="preserve">
-    <value>Modify Group</value>
+    <value>Изменить группу</value>
   </data>
   <data name="ModifyNote" xml:space="preserve">
-    <value>Modify Note</value>
+    <value>Изменить заметку</value>
   </data>
   <data name="ModifyProject" xml:space="preserve">
-    <value>Modify Project</value>
+    <value>Изменить проект</value>
   </data>
   <data name="ModifySwipe.Text" xml:space="preserve">
-    <value>Change</value>
+    <value>Изменить</value>
   </data>
   <data name="MyProjectTextBlock.Text" xml:space="preserve">
-    <value>My Project</value>
+    <value>Мой проект</value>
   </data>
   <data name="NewBuiltTextBlock.Text" xml:space="preserve">
-    <value>New-Built</value>
+    <value>Новый билд</value>
   </data>
   <data name="NewNoteButtonContentTextBlock.Text" xml:space="preserve">
-    <value>New note</value>
+    <value>Новая заметка</value>
   </data>
   <data name="NewProjectButtonContentTextBlock.Text" xml:space="preserve">
-    <value>New project</value>
+    <value>Новый проект</value>
   </data>
   <data name="NoteList" xml:space="preserve">
-    <value>Note list</value>
+    <value>Список заметок</value>
   </data>
   <data name="NoteListTextBlock.Text" xml:space="preserve">
-    <value>Note List</value>
+    <value>Список заметок</value>
   </data>
   <data name="NoteNameTextBlock.Text" xml:space="preserve">
-    <value>Note Name</value>
+    <value>Имя заметки</value>
   </data>
   <data name="NoteNameTextBox.PlaceholderText" xml:space="preserve">
-    <value>Name your notes.</value>
+    <value>Имя вашей заметки.</value>
   </data>
   <data name="OpenFileButtonContentTextBlock.Text" xml:space="preserve">
-    <value>File</value>
+    <value>Файл</value>
   </data>
   <data name="OpenItemTextBlock.Text" xml:space="preserve">
-    <value>Open-Item</value>
+    <value>Открыть файл</value>
   </data>
   <data name="OpenFolderButtonContentTextBlock.Text" xml:space="preserve">
-    <value>Folder</value>
+    <value>Папка</value>
   </data>
   <data name="PictureGallery" xml:space="preserve">
-    <value>Picture gallery</value>
+    <value>Галерея изображений</value>
   </data>
   <data name="ProjectBuiltTimeTextBlock.Text" xml:space="preserve">
-    <value>Project creation time</value>
+    <value>Дата создания проекта</value>
   </data>
   <data name="ProjectConfig" xml:space="preserve">
-    <value>Project conifg</value>
+    <value>Настройки проекта</value>
   </data>
   <data name="ProjectDescriptionTextBlock.Text" xml:space="preserve">
-    <value>Project description</value>
+    <value>Описание проекта</value>
   </data>
   <data name="ProjectDescriptionTextBox.PlaceholderText" xml:space="preserve">
-    <value>Here is your project description.</value>
+    <value>Это описание вашего проекта.</value>
   </data>
   <data name="ProjectLastChangeTimeTextBlock.Text" xml:space="preserve">
-    <value>Project modification time</value>
+    <value>Дата изменения проекта</value>
   </data>
   <data name="ProjectLockNoneRadioButton.Content" xml:space="preserve">
-    <value>None</value>
+    <value>Ничего</value>
   </data>
   <data name="ProjectLockPasswordRadioButton.Content" xml:space="preserve">
-    <value>Password</value>
+    <value>Пароль</value>
   </data>
   <data name="ProjectLockPinRadioButton.Content" xml:space="preserve">
     <value>Windows Hello</value>
   </data>
   <data name="ProjectLockTextBlock.Text" xml:space="preserve">
-    <value>Project encryption</value>
+    <value>Шифрование проекта</value>
   </data>
   <data name="ProjectNameEmpty" xml:space="preserve">
-    <value>Project name can't be empty!</value>
+    <value>Имя проекта не может быть пустым!</value>
   </data>
   <data name="ProjectNameTextBlock.Text" xml:space="preserve">
-    <value>Project name</value>
+    <value>Имя проекта</value>
   </data>
   <data name="ProjectNameTextBox.PlaceholderText" xml:space="preserve">
-    <value>Here is your project name</value>
+    <value>Это имя вашего проекта</value>
   </data>
   <data name="ProjectNullOrEmpty" xml:space="preserve">
-    <value>The corresponding project does not exist or has been deleted</value>
+    <value>Указанный проект не существует или был перемещен</value>
   </data>
   <data name="ProjectPasswordEmpty" xml:space="preserve">
-    <value>Project password can't be empty!</value>
+    <value>Пароль проекта не может пыть пустым!</value>
   </data>
   <data name="ProjectPasswordTextBlock.Text" xml:space="preserve">
-    <value>Project Password (Can't retrieved)</value>
+    <value>Пароль проекта (Не может быть восстановлен)</value>
   </data>
   <data name="ProjectTypeCloudRadioButton.Content" xml:space="preserve">
-    <value>Cloud project</value>
+    <value>Облачный проект</value>
   </data>
   <data name="ProjectTypeLocalRadioButton.Content" xml:space="preserve">
-    <value>Local project</value>
+    <value>Локальный проект</value>
   </data>
   <data name="ProjectTypeTextBlock.Text" xml:space="preserve">
-    <value>Project type</value>
+    <value>Тип проекта</value>
   </data>
   <data name="RecommendPictureShareTextRun1.Text" xml:space="preserve">
-    <value>Recommend</value>
+    <value>Порекомендовать</value>
   </data>
   <data name="RecommendPictureShareTextRun2.Text" xml:space="preserve">
     <value>It is free, safe and easy to use as a management tool for picture beds.</value>
+    <comment>Here is something strange. What beds do you meen?</comment>
   </data>
   <data name="RemoveMenuItem.Text" xml:space="preserve">
-    <value>Remove</value>
+    <value>Убрать</value>
   </data>
   <data name="SaveButton.Content" xml:space="preserve">
-    <value>Save</value>
+    <value>Сохранить</value>
   </data>
   <data name="Saved" xml:space="preserve">
-    <value>Saved</value>
+    <value>Сохранено</value>
   </data>
   <data name="SavePath" xml:space="preserve">
-    <value>Save Path</value>
+    <value>Сохранить путь</value>
   </data>
   <data name="SearchBox.PlaceholderText" xml:space="preserve">
-    <value>Search...</value>
+    <value>Ищем...</value>
   </data>
   <data name="SingleNote" xml:space="preserve">
-    <value>Single Note</value>
+    <value>Одиночная заметка</value>
   </data>
   <data name="StyleSheet" xml:space="preserve">
-    <value>Style sheet</value>
+    <value>Таблица стилей</value>
   </data>
   <data name="StyleSheetManagerButtonContentTextBlock.Text" xml:space="preserve">
-    <value>Style Sheet</value>
+    <value>Таблица стилей</value>
   </data>
   <data name="StyleSheetManagerHolderTextBlock.Text" xml:space="preserve">
-    <value>Welcome to Style Management</value>
+    <value>Добро пожаловать в менеджер стилей</value>
   </data>
   <data name="StyleSheetTitleTextBox.PlaceholderText" xml:space="preserve">
-    <value>Style Title</value>
+    <value>Название стиля</value>
   </data>
   <data name="Sure" xml:space="preserve">
-    <value>Ok</value>
+    <value>Подвердить</value>
   </data>
   <data name="TemplateComboTipTextBlock.Text" xml:space="preserve">
-    <value>Template</value>
+    <value>Шаблон</value>
   </data>
   <data name="TemplateContentTextBox.PlaceholderText" xml:space="preserve">
-    <value>Template content, variables refer to the description on the right</value>
+    <value>Содержимое шаблона, соответствующие переменные находятся справа</value>
   </data>
   <data name="TemplateListTextBlock.Text" xml:space="preserve">
-    <value>Template List</value>
+    <value>Список шаблонов</value>
   </data>
   <data name="TemplateManagerButtonContentTextBlock.Text" xml:space="preserve">
-    <value>Template</value>
+    <value>Шаблон</value>
   </data>
   <data name="TemplateManagerHolderTextBlock.Text" xml:space="preserve">
-    <value>Welcome to Template Management</value>
+    <value>Добро пожаловать в Менеджер Шаблонов</value>
   </data>
   <data name="TemplateManagerTextBlock.Text" xml:space="preserve">
-    <value>Template management</value>
+    <value>Менеджер шаблонов</value>
   </data>
   <data name="TemplateTitleTextBox.PlaceholderText" xml:space="preserve">
-    <value>Template Title</value>
+    <value>Название шаблона</value>
   </data>
   <data name="TimeFormat" xml:space="preserve">
     <value>yyyy/MM/dd HH:mm</value>
   </data>
   <data name="VarDateIntroduceTextBlock.Text" xml:space="preserve">
-    <value>Represents the time when the note was created, y represents the year, M represents the month, d represents the day, H represents the hour, m represents the minute, s represents the second, and the expression in parentheses can be adjusted by itself.</value>
+    <value>Обозначает форма, в котором отображается время. y - год, M - месяц, d - день, H - часы, m - минуты, s - секунды.</value>
   </data>
   <data name="VarFileNameIntroduceTextBlock.Text" xml:space="preserve">
-    <value>Represents the name of the file you save. Sometimes the name of the file does not coincide with the name of the record. The file name does not contain a path, and does not contain an extension.</value>
+    <value>Представляет собой имя сохраняемого файла. Иногда, имя файла и записи могут не совпадать. Имя файла не содержит в себе полный путь и расширение.</value>
   </data>
   <data name="VarTitleIntroduceTextBlock.Text" xml:space="preserve">
-    <value>Represents the name of the note saved by the software</value>
+    <value>Имя заметки, сохраненой программой</value>
   </data>
   <data name="Waiting" xml:space="preserve">
-    <value>Waiting...</value>
+    <value>Ожидайте...</value>
   </data>
   <data name="NewStyleSheetTip" xml:space="preserve">
-    <value>New completion and auto-fill default style</value>
+    <value>Новое завершение и автозаполнение по умолчанию</value>
   </data>
   <data name="BasicSettingTitleTextBlock.Text" xml:space="preserve">
-    <value>Basic Settings</value>
+    <value>Основные настройки</value>
   </data>
   <data name="PasswordDialogTitle" xml:space="preserve">
-    <value>Need Password</value>
+    <value>Необходим пароль</value>
   </data>
   <data name="RestartTip" xml:space="preserve">
-    <value>The modification has been completed, please restart the application</value>
+    <value>Изменения были применены. Просим перезапустить приложение</value>
   </data>
   <data name="SettingBasic" xml:space="preserve">
-    <value>Basic</value>
+    <value>Базовый</value>
   </data>
   <data name="SettingEdit" xml:space="preserve">
-    <value>Editor</value>
+    <value>Редактор</value>
   </data>
   <data name="SettingManagerTextBlock.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>Настройки</value>
   </data>
   <data name="SettingPreview" xml:space="preserve">
-    <value>Preview</value>
+    <value>Превью</value>
   </data>
   <data name="ThemeTipTextBlock.Text" xml:space="preserve">
-    <value>Soft Theme</value>
+    <value>Легкая тема</value>
   </data>
   <data name="WrongPassword" xml:space="preserve">
-    <value>Password error</value>
+    <value>Ошибка пароля</value>
   </data>
   <data name="EditColumnMenuItem.Text" xml:space="preserve">
-    <value>Only edit</value>
+    <value>Только редактирование</value>
   </data>
   <data name="PreviewColumnMenuItem.Text" xml:space="preserve">
-    <value>Only preview</value>
+    <value>Только превью</value>
   </data>
   <data name="TwoColumnMenuItem.Text" xml:space="preserve">
-    <value>Contrast</value>
+    <value>Контраст</value>
   </data>
   <data name="BuiltProject" xml:space="preserve">
-    <value>Build Project</value>
+    <value>Создать проект</value>
   </data>
   <data name="CanNotDeleteFixItem" xml:space="preserve">
-    <value>Fixed entries cannot be deleted</value>
+    <value>Измененные поля не могут быть сохранены</value>
   </data>
   <data name="RepeatName" xml:space="preserve">
-    <value>Name Repeat</value>
+    <value>Повторить имя</value>
   </data>
   <data name="Exported" xml:space="preserve">
-    <value>Exported</value>
+    <value>Экспортировать</value>
   </data>
   <data name="ExportHTMLMenuItem.Text" xml:space="preserve">
-    <value>Export to HTML</value>
+    <value>Экспортировать в HTML</value>
   </data>
   <data name="ExportImage" xml:space="preserve">
-    <value>Export Image</value>
+    <value>Экспортировать изображение</value>
   </data>
   <data name="ExportMarkdownMenuItem.Text" xml:space="preserve">
-    <value>Export to md</value>
+    <value>Экспортировать в MD</value>
   </data>
   <data name="DefaultStyleTipTextBlock.Text" xml:space="preserve">
-    <value>Default style</value>
+    <value>Стиль по умолчанию</value>
   </data>
   <data name="EditSettingTitleTextBlock.Text" xml:space="preserve">
-    <value>Editor Settings</value>
+    <value>Настройки редактора</value>
   </data>
   <data name="ExampleTipTextBlock.Text" xml:space="preserve">
-    <value>Sample text</value>
+    <value>Текст-образец</value>
   </data>
   <data name="FontFamilyTipTextBlock.Text" xml:space="preserve">
-    <value>Font setting</value>
+    <value>Настройки шрифта</value>
   </data>
   <data name="FontSizeTipTextBlock.Text" xml:space="preserve">
-    <value>Font size setting</value>
+    <value>Настройки размера шрифта</value>
   </data>
   <data name="HTMLNoStyleMenuItem.Text" xml:space="preserve">
-    <value>No style</value>
+    <value>Без стилей</value>
   </data>
   <data name="HTMLWithStyleMenuItem.Text" xml:space="preserve">
-    <value>Inclusion style</value>
+    <value>Стиль включения</value>
   </data>
   <data name="LoadingTipTextBlock.Text" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Загрузка...</value>
   </data>
   <data name="PreviewSettingTitleTextBlock.Text" xml:space="preserve">
-    <value>Preview Settings</value>
+    <value>Настройки превью</value>
   </data>
   <data name="ImportFileMenuItem.Text" xml:space="preserve">
-    <value>File</value>
+    <value>Файл</value>
   </data>
   <data name="ImportFolderMenuItem.Text" xml:space="preserve">
-    <value>Folder</value>
+    <value>Папка</value>
   </data>
   <data name="BuiltMailConfig" xml:space="preserve">
-    <value>Establishing Mailbox Configuration</value>
+    <value>Проверяем настройки почты</value>
   </data>
   <data name="Deleted" xml:space="preserve">
-    <value>Deleted</value>
+    <value>Удалено</value>
   </data>
   <data name="MailAddressTipTextBlock.Text" xml:space="preserve">
-    <value>Mail Address</value>
+    <value>Адрес почты</value>
   </data>
   <data name="MailManagerTipTextBlock.Text" xml:space="preserve">
-    <value>Mailbox Management</value>
+    <value>Менеджер почты</value>
   </data>
   <data name="MailNameTipTextBlock.Text" xml:space="preserve">
-    <value>Show Name</value>
+    <value>Показать имя</value>
   </data>
   <data name="MailPasswordTipTextBlock.Text" xml:space="preserve">
-    <value>Password</value>
+    <value>Пароль</value>
   </data>
   <data name="MailPortTipTextBlock.Text" xml:space="preserve">
-    <value>Port</value>
+    <value>Порт</value>
   </data>
   <data name="MailSendError" xml:space="preserve">
-    <value>Mail delivery failed, please check configuration</value>
+    <value>Ошибка отправки почты. Проверьте настройки почты</value>
   </data>
   <data name="MailServerTipTextBlock.Text" xml:space="preserve">
-    <value>Mailbox Server</value>
+    <value>Почтовый сервер</value>
   </data>
   <data name="MailSSLTipTextBlock.Text" xml:space="preserve">
-    <value>SSL Open</value>
+    <value>SSL открыт</value>
   </data>
   <data name="ModifyMailConfig" xml:space="preserve">
-    <value>Modify Mailbox Configuration</value>
+    <value>Изменить настройки почты</value>
   </data>
   <data name="OpenFileTipContent" xml:space="preserve">
-    <value>You will open the external Markdown file, which will cover the page you are currently browsing. Are you sure?</value>
+    <value>Файл, который вы собираетесь открыть, заменит текущий в окне. Продолжить?</value>
   </data>
   <data name="OpenFileTipTitle" xml:space="preserve">
-    <value>Open external files</value>
+    <value>Открыть внешний файл</value>
   </data>
   <data name="TestMailSendTip" xml:space="preserve">
-    <value>A test email has been sent to your mailbox. If you receive it, the configuration is correct.</value>
+    <value>Тестовое сообщение было отправлено на почту. Если оно до вас дошло, то почта настроена правильно</value>
   </data>
   <data name="ExportMailMenuItem.Text" xml:space="preserve">
-    <value>Send Mail</value>
+    <value>Отправить письмо</value>
   </data>
   <data name="MailConfigTipTextBlock.Text" xml:space="preserve">
-    <value>Sender</value>
+    <value>Отправитель</value>
   </data>
   <data name="MailSent" xml:space="preserve">
-    <value>The mail has been sent</value>
+    <value>Письмо было успешно отправлено</value>
   </data>
   <data name="None" xml:space="preserve">
-    <value>None</value>
+    <value>Ничего</value>
   </data>
   <data name="ReceiverNameTipTextBlock.Text" xml:space="preserve">
-    <value>Recipients (Use commas to separate)</value>
+    <value>Получатели (используйте запятые для перечисления)</value>
   </data>
   <data name="SendMailDialogTitle" xml:space="preserve">
-    <value>Send Mail</value>
+    <value>Отправить письмо</value>
   </data>
   <data name="StyleSheetTipTextBlock.Text" xml:space="preserve">
-    <value>Style Sheet</value>
+    <value>Таблица стилей</value>
   </data>
   <data name="WithMarkdownCheckBox.Content" xml:space="preserve">
-    <value>Send MD files as attachments</value>
+    <value>Отправить MD как прикрепленный файл</value>
   </data>
   <data name="BuiltWordPressConfig" xml:space="preserve">
-    <value>Link to WordPress</value>
+    <value>Связать с WordPress</value>
   </data>
   <data name="ExportWordPressMenuItem.Text" xml:space="preserve">
-    <value>Published to WP</value>
+    <value>Опубликовать в WP</value>
   </data>
   <data name="WordPressAuthorizeCodeTipTextBlock.Text" xml:space="preserve">
-    <value>Copy the authorization code you get in the browser.</value>
+    <value>Скопируйте код авторизации, полученный в браузере.</value>
   </data>
   <data name="DeleteMailTip" xml:space="preserve">
-    <value>You will delete this Mailbox configuration. Are you sure?</value>
+    <value>Вы собираетесь удалить настройки Почты. Продолжить?</value>
   </data>
   <data name="DeleteWordPressTip" xml:space="preserve">
-    <value>You will delete this WordPress configuration. Are you sure?</value>
+    <value>Вы собираетесь удалить настройки WordPress. Продолжить?</value>
   </data>
   <data name="LanguageTipTextBlock.Text" xml:space="preserve">
-    <value>Language</value>
+    <value>Язык</value>
   </data>
   <data name="WordPressManagerTipTextBlock.Text" xml:space="preserve">
-    <value>WordPress Management</value>
+    <value>Менеджер WordPress</value>
   </data>
   <data name="NoWordPressConfigTip" xml:space="preserve">
-    <value>You do not have a WordPress account configured, Please add it to the software settings</value>
+    <value>У вас не настроен аккаунт WordPress, вы можете сделать это в настройках</value>
   </data>
   <data name="LineHeightTipTextBlock.Text" xml:space="preserve">
-    <value>Line Height</value>
+    <value>Высота линии</value>
   </data>
   <data name="MoreOptionButton.Content" xml:space="preserve">
-    <value>More</value>
+    <value>Больше</value>
   </data>
   <data name="NewWordPressPost" xml:space="preserve">
-    <value>New Post</value>
+    <value>Новый пост</value>
   </data>
   <data name="SiteComboBoxTipTextBlock.Text" xml:space="preserve">
-    <value>Site selection</value>
+    <value>Выбор сайта</value>
   </data>
   <data name="Uploaded" xml:space="preserve">
-    <value>Uploaded</value>
+    <value>Выгружено</value>
   </data>
   <data name="UploadError" xml:space="preserve">
-    <value>Upload failure</value>
+    <value>Ошибка выгрузки</value>
   </data>
   <data name="WordPressExpiryReAuthority" xml:space="preserve">
-    <value>The token has expired and is being reapplied</value>
+    <value>Токен истек и был отклонен</value>
   </data>
   <data name="WordPressExpiryTip" xml:space="preserve">
-    <value>The token has expired, please click on the corresponding account in the settings to re-authorize</value>
+    <value>Токен истек, обновите его в настройках аккаунта</value>
   </data>
   <data name="WPCategoryTipTextBlock.Text" xml:space="preserve">
-    <value>Category selection</value>
+    <value>Выбор категории</value>
   </data>
   <data name="WPSlugTipTextBlock.Text" xml:space="preserve">
     <value>Slug</value>
+    <comment>What does you mean?</comment>
   </data>
   <data name="WPStatusTipTextBlock.Text" xml:space="preserve">
-    <value>Status</value>
+    <value>Статус</value>
   </data>
   <data name="WPStatus_Draft.Content" xml:space="preserve">
-    <value>Draft</value>
+    <value>Черновик</value>
   </data>
   <data name="WPStatus_Private.Content" xml:space="preserve">
-    <value>Private</value>
+    <value>Приватный</value>
   </data>
   <data name="WPStatus_Public.Content" xml:space="preserve">
-    <value>Public</value>
+    <value>Публичный</value>
   </data>
   <data name="WPTagTipTextBlock.Text" xml:space="preserve">
-    <value>Tag selection</value>
+    <value>Выбор Тэга</value>
   </data>
   <data name="ModifyPostMenuItem.Text" xml:space="preserve">
-    <value>Modify Post</value>
+    <value>Изменить пост</value>
   </data>
   <data name="ModifyWordPressPost" xml:space="preserve">
-    <value>Modify Post</value>
+    <value>Изменить пост</value>
   </data>
   <data name="NewPostMenuItem.Text" xml:space="preserve">
-    <value>New Post</value>
+    <value>Новый пост</value>
   </data>
   <data name="NoFile" xml:space="preserve">
-    <value>Source file is damaged or lost, please rebind</value>
+    <value>Исходный файл был поврежден или перемещен. Укажите путь до исходного файла</value>
   </data>
   <data name="PostComboBoxTipTextBlock.Text" xml:space="preserve">
-    <value>Source post</value>
+    <value>Исходный пост</value>
   </data>
   <data name="CloseCacheTip" xml:space="preserve">
-    <value>You also have unsaved files. Please choose how to handle them.</value>
+    <value>У вас имеются несохраненные файлы. Как с ними поступить?</value>
   </data>
   <data name="DeleteJustNote" xml:space="preserve">
-    <value>Just Item</value>
+    <value>Только элемент</value>
   </data>
   <data name="DeleteWithFile" xml:space="preserve">
-    <value>Delete File</value>
+    <value>Удалить файл</value>
   </data>
   <data name="Exit" xml:space="preserve">
-    <value>Exit</value>
+    <value>Выход</value>
   </data>
   <data name="SaveAndExit" xml:space="preserve">
-    <value>Exit after saving</value>
+    <value>Выйти после сохранения</value>
   </data>
   <data name="Warning" xml:space="preserve">
-    <value>Warning</value>
+    <value>Предупреждение</value>
   </data>
   <data name="ToBlog" xml:space="preserve">
-    <value>Developer blog</value>
+    <value>Блог разработки</value>
   </data>
   <data name="UpdateTitle" xml:space="preserve">
-    <value>Update information</value>
+    <value>Обновить информацию</value>
   </data>
   <data name="WordPressAuthorizeCodeDialogTitle" xml:space="preserve">
-    <value>WordPress Authorization Code</value>
+    <value>Код авторизации WordPress</value>
   </data>
 </root>
