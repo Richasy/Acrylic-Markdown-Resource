@@ -343,8 +343,7 @@
     <value>Порекомендовать</value>
   </data>
   <data name="RecommendPictureShareTextRun2.Text" xml:space="preserve">
-    <value>It is free, safe and easy to use as a management tool for picture beds.</value>
-    <comment>Here is something strange. What beds do you meen?</comment>
+    <value>Безопасный, бесплатный и простой способ создания ссылок на изображения.</value>
   </data>
   <data name="RemoveMenuItem.Text" xml:space="preserve">
     <value>Убрать</value>
@@ -627,7 +626,6 @@
   </data>
   <data name="WPSlugTipTextBlock.Text" xml:space="preserve">
     <value>Slug</value>
-    <comment>What does you mean?</comment>
   </data>
   <data name="WPStatusTipTextBlock.Text" xml:space="preserve">
     <value>Статус</value>
