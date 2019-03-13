@@ -337,7 +337,7 @@
     <value>名称重复</value>
   </data>
   <data name="DeleteGroupTip" xml:space="preserve">
-    <value>您将删除该组，组内所有条目将被清空（源文件不受影响），是否确认？</value>
+    <value>您可以仅删除该组（组内条目移至未分组），或者同时删除组内所有条目（源文件不受影响），请选择？</value>
   </data>
   <data name="DeleteSuccessTip" xml:space="preserve">
     <value>已删除</value>
@@ -683,5 +683,110 @@
   </data>
   <data name="UpdateTitle" xml:space="preserve">
     <value>更新信息</value>
+  </data>
+  <data name="AuthorComboBoxTipTextBlock.Text" xml:space="preserve">
+    <value>作者名</value>
+  </data>
+  <data name="ImmerseButton.Content" xml:space="preserve">
+    <value>沉浸模式</value>
+  </data>
+  <data name="FindCloseString" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="FindNextString" xml:space="preserve">
+    <value>后一个</value>
+  </data>
+  <data name="FindPrevString" xml:space="preserve">
+    <value>前一个</value>
+  </data>
+  <data name="FindRegString" xml:space="preserve">
+    <value>/reg/ 表示正则</value>
+  </data>
+  <data name="FindReplaceAllString" xml:space="preserve">
+    <value>替换全部</value>
+  </data>
+  <data name="FindReplaceString" xml:space="preserve">
+    <value>替换</value>
+  </data>
+  <data name="FindReplaceTip" xml:space="preserve">
+    <value>替换：</value>
+  </data>
+  <data name="FindSwitchString" xml:space="preserve">
+    <value>使用Ctrl+Shift+F切换为替换模式</value>
+  </data>
+  <data name="FindTargetTip" xml:space="preserve">
+    <value>为：</value>
+  </data>
+  <data name="FindTip" xml:space="preserve">
+    <value>查找：</value>
+  </data>
+  <data name="DeleteAll" xml:space="preserve">
+    <value>全部删除</value>
+  </data>
+  <data name="DeleteGroup" xml:space="preserve">
+    <value>删除分组</value>
+  </data>
+  <data name="NoGroup" xml:space="preserve">
+    <value>未分组</value>
+  </data>
+  <data name="NoProject" xml:space="preserve">
+    <value>笔记所属项目无效</value>
+  </data>
+  <data name="BoldButtonTip" xml:space="preserve">
+    <value>加粗</value>
+  </data>
+  <data name="CodeButtonTip" xml:space="preserve">
+    <value>行内代码</value>
+  </data>
+  <data name="DellineButtonTip" xml:space="preserve">
+    <value>删除线</value>
+  </data>
+  <data name="ExportButtonTip" xml:space="preserve">
+    <value>导出</value>
+  </data>
+  <data name="GithubButtonTip" xml:space="preserve">
+    <value>Github资源</value>
+  </data>
+  <data name="ImageButtonTip" xml:space="preserve">
+    <value>调取图床</value>
+  </data>
+  <data name="IntroduceButtonTip" xml:space="preserve">
+    <value>说明文档</value>
+  </data>
+  <data name="ItalicButtonTip" xml:space="preserve">
+    <value>斜体</value>
+  </data>
+  <data name="NewGroupButtonTip" xml:space="preserve">
+    <value>新建分组</value>
+  </data>
+  <data name="NewNoteButtonTip" xml:space="preserve">
+    <value>新建笔记</value>
+  </data>
+  <data name="PreButtonTip" xml:space="preserve">
+    <value>块级代码</value>
+  </data>
+  <data name="SaveButtonTip" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="SubButtonTip" xml:space="preserve">
+    <value>下标</value>
+  </data>
+  <data name="SupButtonTip" xml:space="preserve">
+    <value>上标</value>
+  </data>
+  <data name="SwitchButtonTip" xml:space="preserve">
+    <value>切换模式</value>
+  </data>
+  <data name="UnderlineButtonTip" xml:space="preserve">
+    <value>下划线</value>
+  </data>
+  <data name="StyleSheetListTextBlock.Text" xml:space="preserve">
+    <value>样式列表</value>
+  </data>
+  <data name="EditorThemePreviewButton.Content" xml:space="preserve">
+    <value>主题效果预览</value>
+  </data>
+  <data name="EditorThemeTipTextBlock.Text" xml:space="preserve">
+    <value>编辑器主题</value>
   </data>
 </root>

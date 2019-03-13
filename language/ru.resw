@@ -684,4 +684,79 @@
   <data name="WordPressAuthorizeCodeDialogTitle" xml:space="preserve">
     <value>Код авторизации WordPress</value>
   </data>
+  <data name="ExportButtonTip" xml:space="preserve">
+    <value>экспорт</value>
+  </data>
+  <data name="GithubButtonTip" xml:space="preserve">
+    <value>Ресурсы Github</value>
+  </data>
+  <data name="ImmerseButton.Content" xml:space="preserve">
+    <value>Режим погружения</value>
+  </data>
+  <data name="IntroduceButtonTip" xml:space="preserve">
+    <value>документация</value>
+  </data>
+  <data name="NewGroupButtonTip" xml:space="preserve">
+    <value>Создать группу</value>
+  </data>
+  <data name="NewNoteButtonTip" xml:space="preserve">
+    <value>Создать заметку</value>
+  </data>
+  <data name="NoGroup" xml:space="preserve">
+    <value>разгруппирована</value>
+  </data>
+  <data name="SaveButtonTip" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="StyleSheetListTextBlock.Text" xml:space="preserve">
+    <value>Список стилей</value>
+  </data>
+  <data name="SwitchButtonTip" xml:space="preserve">
+    <value>Режим переключения</value>
+  </data>
+  <data name="BoldButtonTip" xml:space="preserve">
+    <value>Смелый</value>
+  </data>
+  <data name="CodeButtonTip" xml:space="preserve">
+    <value>Код</value>
+  </data>
+  <data name="DellineButtonTip" xml:space="preserve">
+    <value>Прорваться через</value>
+  </data>
+  <data name="ImageButtonTip" xml:space="preserve">
+    <value>Picture Share</value>
+  </data>
+  <data name="ItalicButtonTip" xml:space="preserve">
+    <value>курсивный</value>
+  </data>
+  <data name="PreButtonTip" xml:space="preserve">
+    <value>Блок кода</value>
+  </data>
+  <data name="SubButtonTip" xml:space="preserve">
+    <value>индекс</value>
+  </data>
+  <data name="SupButtonTip" xml:space="preserve">
+    <value>верхний индекс</value>
+  </data>
+  <data name="UnderlineButtonTip" xml:space="preserve">
+    <value>подчеркивание</value>
+  </data>
+  <data name="AuthorComboBoxTipTextBlock.Text" xml:space="preserve">
+    <value>автор</value>
+  </data>
+  <data name="DeleteAll" xml:space="preserve">
+    <value>Удалить все</value>
+  </data>
+  <data name="DeleteGroup" xml:space="preserve">
+    <value>Удалить группу</value>
+  </data>
+  <data name="NoProject" xml:space="preserve">
+    <value>Примечание недействительно</value>
+  </data>
+  <data name="EditorThemePreviewButton.Content" xml:space="preserve">
+    <value>Предварительный просмотр эффекта темы</value>
+  </data>
+  <data name="EditorThemeTipTextBlock.Text" xml:space="preserve">
+    <value>Тема редактора</value>
+  </data>
 </root>

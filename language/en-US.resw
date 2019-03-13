@@ -118,40 +118,61 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddNewPictureTextBlock.Text" xml:space="preserve">
-    <value>Add new image</value>
+    <value>Add a new image</value>
   </data>
   <data name="AddNoteButtonTextBlock.Text" xml:space="preserve">
-    <value>New Note</value>
+    <value>Add a note</value>
   </data>
   <data name="AllNote" xml:space="preserve">
-    <value>All notes</value>
+    <value>All Notes</value>
   </data>
   <data name="AppManagerButtonContentTextBlock.Text" xml:space="preserve">
     <value>Settings</value>
+  </data>
+  <data name="AuthorComboBoxTipTextBlock.Text" xml:space="preserve">
+    <value>Author</value>
+  </data>
+  <data name="BasicSettingTitleTextBlock.Text" xml:space="preserve">
+    <value>Basic Settings</value>
   </data>
   <data name="BuildToggleButton.Content" xml:space="preserve">
     <value>New</value>
   </data>
   <data name="BuiltGroup" xml:space="preserve">
-    <value>Built Group</value>
+    <value>New group</value>
+  </data>
+  <data name="BuiltMailConfig" xml:space="preserve">
+    <value>Config your mailbox</value>
   </data>
   <data name="BuiltNewGroupTextBlock.Text" xml:space="preserve">
-    <value>Create new group</value>
+    <value>Create a new group</value>
   </data>
   <data name="BuiltNote" xml:space="preserve">
-    <value>Built Note</value>
+    <value>New note</value>
+  </data>
+  <data name="BuiltProject" xml:space="preserve">
+    <value>New project</value>
+  </data>
+  <data name="BuiltWordPressConfig" xml:space="preserve">
+    <value>Link to WordPress</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Cancel</value>
   </data>
+  <data name="CanNotDeleteFixItem" xml:space="preserve">
+    <value>Pinned items cannot be deleted.</value>
+  </data>
   <data name="Change" xml:space="preserve">
-    <value>Change</value>
+    <value>Edit</value>
   </data>
   <data name="ChangeMenuItem.Text" xml:space="preserve">
-    <value>Change</value>
+    <value>Edit</value>
+  </data>
+  <data name="CloseCacheTip" xml:space="preserve">
+    <value>You have unsaved files. What would you like to do with them?</value>
   </data>
   <data name="CloudNull.PlaceholderText" xml:space="preserve">
-    <value>Or not</value>
+    <value>Optional</value>
   </data>
   <data name="CloudProject" xml:space="preserve">
     <value>Cloud Project</value>
@@ -160,31 +181,43 @@
     <value>Cloud</value>
   </data>
   <data name="ColorPickerTipTextBlock.Text" xml:space="preserve">
-    <value>Color Pick</value>
+    <value>Color</value>
   </data>
   <data name="CurrentProjectTextBlock.Text" xml:space="preserve">
-    <value>Current project</value>
+    <value>Current Project</value>
   </data>
   <data name="DecryptRadioButton.Content" xml:space="preserve">
-    <value>None</value>
+    <value>Unencrypted</value>
+  </data>
+  <data name="DefaultStyleTipTextBlock.Text" xml:space="preserve">
+    <value>Default style</value>
   </data>
   <data name="Delete" xml:space="preserve">
     <value>Delete</value>
   </data>
+  <data name="Deleted" xml:space="preserve">
+    <value>Deleted</value>
+  </data>
   <data name="DeleteGroupTip" xml:space="preserve">
-    <value>You will delete the group and all entries in the group will be cleared (source files will not be affected). Are you sure?</value>
+    <value>You are about to delete a group. All the entries in it will be cleared as well (without affecting the source files). Are you sure?</value>
+  </data>
+  <data name="DeleteJustNote" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="DeleteMailTip" xml:space="preserve">
+    <value>You are about to delete the mailbox configuration. Are you sure?</value>
   </data>
   <data name="DeleteMenuItem.Text" xml:space="preserve">
     <value>Delete</value>
   </data>
   <data name="DeleteNoteTip" xml:space="preserve">
-    <value>You will delete this note. Please choose the way to deal with it.</value>
+    <value>You are about to delete a note. Would you like to delete the source file as well?</value>
   </data>
   <data name="DeleteProjectTip" xml:space="preserve">
-    <value>You will delete the project, all groups and notes in the project will be cleared (source files are not affected). Are you sure?</value>
+    <value>You are about to delete a project. All the groups and notes in it will be cleared as well (without affecting the source files). Are you sure?</value>
   </data>
   <data name="DeleteStyleSheetTip" xml:space="preserve">
-    <value>You will delete this style. Are you sure?</value>
+    <value>You are about to delete a style. Are you sure?</value>
   </data>
   <data name="DeleteSuccessTip" xml:space="preserve">
     <value>Deleted</value>
@@ -193,40 +226,103 @@
     <value>Delete</value>
   </data>
   <data name="DeleteTemplate" xml:space="preserve">
-    <value>You will delete this template. Are you sure?</value>
+    <value>You are about to delete a template. Are you sure?</value>
   </data>
   <data name="DeleteTip" xml:space="preserve">
-    <value>Delete Warning</value>
+    <value>Warning</value>
+  </data>
+  <data name="DeleteWithFile" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="DeleteWordPressTip" xml:space="preserve">
+    <value>You are about to delete the WordPress configuration. Are you sure?</value>
   </data>
   <data name="DeveloperNewsTextBlock.Text" xml:space="preserve">
     <value>Developer news</value>
   </data>
+  <data name="EditColumnMenuItem.Text" xml:space="preserve">
+    <value>Editor only</value>
+  </data>
+  <data name="EditSettingTitleTextBlock.Text" xml:space="preserve">
+    <value>Editor Settings</value>
+  </data>
   <data name="EncryptRadioButton.Content" xml:space="preserve">
-    <value>Encrypt</value>
+    <value>Encrypted</value>
+  </data>
+  <data name="ExampleTipTextBlock.Text" xml:space="preserve">
+    <value>Sample text</value>
+  </data>
+  <data name="Exit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="Exported" xml:space="preserve">
+    <value>Exported</value>
+  </data>
+  <data name="ExportHTMLMenuItem.Text" xml:space="preserve">
+    <value>Export to HTML</value>
+  </data>
+  <data name="ExportImage" xml:space="preserve">
+    <value>Export images</value>
+  </data>
+  <data name="ExportMailMenuItem.Text" xml:space="preserve">
+    <value>Send as email</value>
+  </data>
+  <data name="ExportMarkdownMenuItem.Text" xml:space="preserve">
+    <value>Export to MD</value>
+  </data>
+  <data name="ExportWordPressMenuItem.Text" xml:space="preserve">
+    <value>Post to WordPress</value>
   </data>
   <data name="FieldNullOrEmpty" xml:space="preserve">
-    <value>Field cannot be empty</value>
+    <value>Required fields cannot be empty</value>
+  </data>
+  <data name="FontFamilyTipTextBlock.Text" xml:space="preserve">
+    <value>Font</value>
+  </data>
+  <data name="FontSizeTipTextBlock.Text" xml:space="preserve">
+    <value>Font size</value>
   </data>
   <data name="GroupComboTipTextBlock.Text" xml:space="preserve">
-    <value>Choose Group</value>
+    <value>Group</value>
   </data>
   <data name="GroupListTextBlock.Text" xml:space="preserve">
-    <value>Group list</value>
+    <value>Group List</value>
   </data>
   <data name="GroupNameTipTextBlock.Text" xml:space="preserve">
-    <value>Group Name</value>
+    <value>Group name</value>
+  </data>
+  <data name="HTMLNoStyleMenuItem.Text" xml:space="preserve">
+    <value>Without styles</value>
+  </data>
+  <data name="HTMLWithStyleMenuItem.Text" xml:space="preserve">
+    <value>With styles</value>
+  </data>
+  <data name="ImportFileMenuItem.Text" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="ImportFolderMenuItem.Text" xml:space="preserve">
+    <value>Folder</value>
   </data>
   <data name="ImportPath" xml:space="preserve">
-    <value>Import Path</value>
+    <value>Import from</value>
   </data>
   <data name="ImportToggleButton.Content" xml:space="preserve">
     <value>Import</value>
   </data>
   <data name="IsEncryptTextBlock.Text" xml:space="preserve">
-    <value>Encrypt options</value>
+    <value>Encryption</value>
+  </data>
+  <data name="LanguageTipTextBlock.Text" xml:space="preserve">
+    <value>Language</value>
   </data>
   <data name="LastestOpenTextBlock.Text" xml:space="preserve">
-    <value>Recently</value>
+    <value>Recent</value>
+  </data>
+  <data name="LineHeightTipTextBlock.Text" xml:space="preserve">
+    <value>Line height</value>
+  </data>
+  <data name="LoadingTipTextBlock.Text" xml:space="preserve">
+    <value>Loading...</value>
   </data>
   <data name="LocalProject" xml:space="preserve">
     <value>Local Project</value>
@@ -234,56 +330,134 @@
   <data name="LocalProjectRadioButton.Content" xml:space="preserve">
     <value>Local</value>
   </data>
+  <data name="MailAddressTipTextBlock.Text" xml:space="preserve">
+    <value>Email address</value>
+  </data>
+  <data name="MailConfigTipTextBlock.Text" xml:space="preserve">
+    <value>Sender</value>
+  </data>
+  <data name="MailManagerTipTextBlock.Text" xml:space="preserve">
+    <value>Mailbox manager</value>
+  </data>
+  <data name="MailNameTipTextBlock.Text" xml:space="preserve">
+    <value>Signature</value>
+  </data>
+  <data name="MailPasswordTipTextBlock.Text" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="MailPortTipTextBlock.Text" xml:space="preserve">
+    <value>Port</value>
+  </data>
+  <data name="MailSendError" xml:space="preserve">
+    <value>Failed to send the email. Please check your mailbox configurations.</value>
+  </data>
+  <data name="MailSent" xml:space="preserve">
+    <value>Email sent.</value>
+  </data>
+  <data name="MailServerTipTextBlock.Text" xml:space="preserve">
+    <value>Mailbox server</value>
+  </data>
+  <data name="MailSSLTipTextBlock.Text" xml:space="preserve">
+    <value>SSL</value>
+  </data>
   <data name="ManagerTextBlock.Text" xml:space="preserve">
     <value>Manager</value>
   </data>
   <data name="ModifyGroup" xml:space="preserve">
-    <value>Modify Group</value>
+    <value>Edit group properties</value>
+  </data>
+  <data name="ModifyMailConfig" xml:space="preserve">
+    <value>Modify mailbox configurations</value>
   </data>
   <data name="ModifyNote" xml:space="preserve">
-    <value>Modify Note</value>
+    <value>Edit note properties</value>
+  </data>
+  <data name="ModifyPostMenuItem.Text" xml:space="preserve">
+    <value>Modify post</value>
   </data>
   <data name="ModifyProject" xml:space="preserve">
-    <value>Modify Project</value>
+    <value>Edit project properties</value>
   </data>
   <data name="ModifySwipe.Text" xml:space="preserve">
-    <value>Change</value>
+    <value>Edit properties</value>
+  </data>
+  <data name="ModifyWordPressPost" xml:space="preserve">
+    <value>Modify post</value>
+  </data>
+  <data name="MoreOptionButton.Content" xml:space="preserve">
+    <value>More</value>
   </data>
   <data name="MyProjectTextBlock.Text" xml:space="preserve">
     <value>My Project</value>
   </data>
   <data name="NewBuiltTextBlock.Text" xml:space="preserve">
-    <value>New-Built</value>
+    <value>New</value>
   </data>
   <data name="NewNoteButtonContentTextBlock.Text" xml:space="preserve">
     <value>New note</value>
   </data>
+  <data name="NewPostMenuItem.Text" xml:space="preserve">
+    <value>New post</value>
+  </data>
   <data name="NewProjectButtonContentTextBlock.Text" xml:space="preserve">
     <value>New project</value>
   </data>
+  <data name="NewStyleSheetTip" xml:space="preserve">
+    <value>Style sheet created. Auto-filled with the default style.</value>
+  </data>
+  <data name="NewWordPressPost" xml:space="preserve">
+    <value>New post</value>
+  </data>
+  <data name="NoFile" xml:space="preserve">
+    <value>Source file damaged or missing. A rebind to the file is needed.</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>None</value>
+  </data>
   <data name="NoteList" xml:space="preserve">
-    <value>Note list</value>
+    <value>Note List</value>
   </data>
   <data name="NoteListTextBlock.Text" xml:space="preserve">
     <value>Note List</value>
   </data>
   <data name="NoteNameTextBlock.Text" xml:space="preserve">
-    <value>Note Name</value>
+    <value>Name</value>
   </data>
   <data name="NoteNameTextBox.PlaceholderText" xml:space="preserve">
-    <value>Name your notes.</value>
+    <value>Name your note</value>
+  </data>
+  <data name="NoWordPressConfigTip" xml:space="preserve">
+    <value>You don't have a WordPress account configured. Please add one in the settings.</value>
   </data>
   <data name="OpenFileButtonContentTextBlock.Text" xml:space="preserve">
     <value>File</value>
   </data>
-  <data name="OpenItemTextBlock.Text" xml:space="preserve">
-    <value>Open-Item</value>
+  <data name="OpenFileTipContent" xml:space="preserve">
+    <value>You are about to open an external Markdown file and you'll leave the page you are currently on. Are you sure?</value>
+  </data>
+  <data name="OpenFileTipTitle" xml:space="preserve">
+    <value>Open external file</value>
   </data>
   <data name="OpenFolderButtonContentTextBlock.Text" xml:space="preserve">
     <value>Folder</value>
   </data>
+  <data name="OpenItemTextBlock.Text" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="PasswordDialogTitle" xml:space="preserve">
+    <value>Password required</value>
+  </data>
   <data name="PictureGallery" xml:space="preserve">
     <value>Picture gallery</value>
+  </data>
+  <data name="PostComboBoxTipTextBlock.Text" xml:space="preserve">
+    <value>Source post</value>
+  </data>
+  <data name="PreviewColumnMenuItem.Text" xml:space="preserve">
+    <value>Preview only</value>
+  </data>
+  <data name="PreviewSettingTitleTextBlock.Text" xml:space="preserve">
+    <value>Preview Settings</value>
   </data>
   <data name="ProjectBuiltTimeTextBlock.Text" xml:space="preserve">
     <value>Project creation time</value>
@@ -295,7 +469,7 @@
     <value>Project description</value>
   </data>
   <data name="ProjectDescriptionTextBox.PlaceholderText" xml:space="preserve">
-    <value>Here is your project description.</value>
+    <value>Here is a description of your project</value>
   </data>
   <data name="ProjectLastChangeTimeTextBlock.Text" xml:space="preserve">
     <value>Project modification time</value>
@@ -325,10 +499,10 @@
     <value>The corresponding project does not exist or has been deleted</value>
   </data>
   <data name="ProjectPasswordEmpty" xml:space="preserve">
-    <value>Project password can't be empty!</value>
+    <value>Project password cannot be empty!</value>
   </data>
   <data name="ProjectPasswordTextBlock.Text" xml:space="preserve">
-    <value>Project Password (Can't retrieved)</value>
+    <value>Project password (cannot be retrieved)</value>
   </data>
   <data name="ProjectTypeCloudRadioButton.Content" xml:space="preserve">
     <value>Cloud project</value>
@@ -339,14 +513,26 @@
   <data name="ProjectTypeTextBlock.Text" xml:space="preserve">
     <value>Project type</value>
   </data>
+  <data name="ReceiverNameTipTextBlock.Text" xml:space="preserve">
+    <value>Recipients (separated by commas)</value>
+  </data>
   <data name="RecommendPictureShareTextRun1.Text" xml:space="preserve">
-    <value>Recommend</value>
+    <value>We recommend using</value>
   </data>
   <data name="RecommendPictureShareTextRun2.Text" xml:space="preserve">
-    <value>It is free, safe and easy to use as a management tool for picture beds.</value>
+    <value>as your image hosting tool. It is free, safe and easy to use.</value>
   </data>
   <data name="RemoveMenuItem.Text" xml:space="preserve">
     <value>Remove</value>
+  </data>
+  <data name="RepeatName" xml:space="preserve">
+    <value>Duplicate name</value>
+  </data>
+  <data name="RestartTip" xml:space="preserve">
+    <value>Please restart the app for the change to take effect.</value>
+  </data>
+  <data name="SaveAndExit" xml:space="preserve">
+    <value>Save and exit</value>
   </data>
   <data name="SaveButton.Content" xml:space="preserve">
     <value>Save</value>
@@ -355,76 +541,13 @@
     <value>Saved</value>
   </data>
   <data name="SavePath" xml:space="preserve">
-    <value>Save Path</value>
+    <value>Save to</value>
   </data>
   <data name="SearchBox.PlaceholderText" xml:space="preserve">
     <value>Search...</value>
   </data>
-  <data name="SingleNote" xml:space="preserve">
-    <value>Single Note</value>
-  </data>
-  <data name="StyleSheet" xml:space="preserve">
-    <value>Style sheet</value>
-  </data>
-  <data name="StyleSheetManagerButtonContentTextBlock.Text" xml:space="preserve">
-    <value>Style Sheet</value>
-  </data>
-  <data name="StyleSheetManagerHolderTextBlock.Text" xml:space="preserve">
-    <value>Welcome to Style Management</value>
-  </data>
-  <data name="StyleSheetTitleTextBox.PlaceholderText" xml:space="preserve">
-    <value>Style Title</value>
-  </data>
-  <data name="Sure" xml:space="preserve">
-    <value>Ok</value>
-  </data>
-  <data name="TemplateComboTipTextBlock.Text" xml:space="preserve">
-    <value>Template</value>
-  </data>
-  <data name="TemplateContentTextBox.PlaceholderText" xml:space="preserve">
-    <value>Template content, variables refer to the description on the right</value>
-  </data>
-  <data name="TemplateListTextBlock.Text" xml:space="preserve">
-    <value>Template List</value>
-  </data>
-  <data name="TemplateManagerButtonContentTextBlock.Text" xml:space="preserve">
-    <value>Template</value>
-  </data>
-  <data name="TemplateManagerHolderTextBlock.Text" xml:space="preserve">
-    <value>Welcome to Template Management</value>
-  </data>
-  <data name="TemplateManagerTextBlock.Text" xml:space="preserve">
-    <value>Template management</value>
-  </data>
-  <data name="TemplateTitleTextBox.PlaceholderText" xml:space="preserve">
-    <value>Template Title</value>
-  </data>
-  <data name="TimeFormat" xml:space="preserve">
-    <value>yyyy/MM/dd HH:mm</value>
-  </data>
-  <data name="VarDateIntroduceTextBlock.Text" xml:space="preserve">
-    <value>Represents the time when the note was created, y represents the year, M represents the month, d represents the day, H represents the hour, m represents the minute, s represents the second, and the expression in parentheses can be adjusted by itself.</value>
-  </data>
-  <data name="VarFileNameIntroduceTextBlock.Text" xml:space="preserve">
-    <value>Represents the name of the file you save. Sometimes the name of the file does not coincide with the name of the record. The file name does not contain a path, and does not contain an extension.</value>
-  </data>
-  <data name="VarTitleIntroduceTextBlock.Text" xml:space="preserve">
-    <value>Represents the name of the note saved by the software</value>
-  </data>
-  <data name="Waiting" xml:space="preserve">
-    <value>Waiting...</value>
-  </data>
-  <data name="NewStyleSheetTip" xml:space="preserve">
-    <value>New completion and auto-fill default style</value>
-  </data>
-  <data name="BasicSettingTitleTextBlock.Text" xml:space="preserve">
-    <value>Basic Settings</value>
-  </data>
-  <data name="PasswordDialogTitle" xml:space="preserve">
-    <value>Need Password</value>
-  </data>
-  <data name="RestartTip" xml:space="preserve">
-    <value>The modification has been completed, please restart the application</value>
+  <data name="SendMailDialogTitle" xml:space="preserve">
+    <value>Send email</value>
   </data>
   <data name="SettingBasic" xml:space="preserve">
     <value>Basic</value>
@@ -438,191 +561,110 @@
   <data name="SettingPreview" xml:space="preserve">
     <value>Preview</value>
   </data>
-  <data name="ThemeTipTextBlock.Text" xml:space="preserve">
-    <value>Soft Theme</value>
-  </data>
-  <data name="WrongPassword" xml:space="preserve">
-    <value>Password error</value>
-  </data>
-  <data name="BuiltProject" xml:space="preserve">
-    <value>Build Project</value>
-  </data>
-  <data name="CanNotDeleteFixItem" xml:space="preserve">
-    <value>Fixed entries cannot be deleted</value>
-  </data>
-  <data name="EditColumnMenuItem.Text" xml:space="preserve">
-    <value>Only edit</value>
-  </data>
-  <data name="PreviewColumnMenuItem.Text" xml:space="preserve">
-    <value>Only preview</value>
-  </data>
-  <data name="RepeatName" xml:space="preserve">
-    <value>Name Repeat</value>
-  </data>
-  <data name="TwoColumnMenuItem.Text" xml:space="preserve">
-    <value>Contrast</value>
-  </data>
-  <data name="Exported" xml:space="preserve">
-    <value>Exported</value>
-  </data>
-  <data name="ExportHTMLMenuItem.Text" xml:space="preserve">
-    <value>Export to HTML</value>
-  </data>
-  <data name="ExportImage" xml:space="preserve">
-    <value>Export Image</value>
-  </data>
-  <data name="ExportMarkdownMenuItem.Text" xml:space="preserve">
-    <value>Export to md</value>
-  </data>
-  <data name="DefaultStyleTipTextBlock.Text" xml:space="preserve">
-    <value>Default style</value>
-  </data>
-  <data name="EditSettingTitleTextBlock.Text" xml:space="preserve">
-    <value>Editor Settings</value>
-  </data>
-  <data name="ExampleTipTextBlock.Text" xml:space="preserve">
-    <value>Sample text</value>
-  </data>
-  <data name="FontFamilyTipTextBlock.Text" xml:space="preserve">
-    <value>Font setting</value>
-  </data>
-  <data name="FontSizeTipTextBlock.Text" xml:space="preserve">
-    <value>Font size setting</value>
-  </data>
-  <data name="HTMLNoStyleMenuItem.Text" xml:space="preserve">
-    <value>No style</value>
-  </data>
-  <data name="HTMLWithStyleMenuItem.Text" xml:space="preserve">
-    <value>Inclusion style</value>
-  </data>
-  <data name="LoadingTipTextBlock.Text" xml:space="preserve">
-    <value>Loading...</value>
-  </data>
-  <data name="PreviewSettingTitleTextBlock.Text" xml:space="preserve">
-    <value>Preview Settings</value>
-  </data>
-  <data name="ImportFileMenuItem.Text" xml:space="preserve">
-    <value>File</value>
-  </data>
-  <data name="ImportFolderMenuItem.Text" xml:space="preserve">
-    <value>Folder</value>
-  </data>
-  <data name="BuiltMailConfig" xml:space="preserve">
-    <value>Establishing Mailbox Configuration</value>
-  </data>
-  <data name="Deleted" xml:space="preserve">
-    <value>Deleted</value>
-  </data>
-  <data name="MailAddressTipTextBlock.Text" xml:space="preserve">
-    <value>Mail Address</value>
-  </data>
-  <data name="MailManagerTipTextBlock.Text" xml:space="preserve">
-    <value>Mailbox Management</value>
-  </data>
-  <data name="MailNameTipTextBlock.Text" xml:space="preserve">
-    <value>Show Name</value>
-  </data>
-  <data name="MailPasswordTipTextBlock.Text" xml:space="preserve">
-    <value>Password</value>
-  </data>
-  <data name="MailPortTipTextBlock.Text" xml:space="preserve">
-    <value>Port</value>
-  </data>
-  <data name="MailSendError" xml:space="preserve">
-    <value>Mail delivery failed, please check configuration</value>
-  </data>
-  <data name="MailServerTipTextBlock.Text" xml:space="preserve">
-    <value>Mailbox Server</value>
-  </data>
-  <data name="MailSSLTipTextBlock.Text" xml:space="preserve">
-    <value>SSL Open</value>
-  </data>
-  <data name="ModifyMailConfig" xml:space="preserve">
-    <value>Modify Mailbox Configuration</value>
-  </data>
-  <data name="OpenFileTipContent" xml:space="preserve">
-    <value>You will open the external Markdown file, which will cover the page you are currently browsing. Are you sure?</value>
-  </data>
-  <data name="OpenFileTipTitle" xml:space="preserve">
-    <value>Open external files</value>
-  </data>
-  <data name="TestMailSendTip" xml:space="preserve">
-    <value>A test email has been sent to your mailbox. If you receive it, the configuration is correct.</value>
-  </data>
-  <data name="ExportMailMenuItem.Text" xml:space="preserve">
-    <value>Send Mail</value>
-  </data>
-  <data name="MailConfigTipTextBlock.Text" xml:space="preserve">
-    <value>Sender</value>
-  </data>
-  <data name="MailSent" xml:space="preserve">
-    <value>The mail has been sent</value>
-  </data>
-  <data name="None" xml:space="preserve">
-    <value>None</value>
-  </data>
-  <data name="ReceiverNameTipTextBlock.Text" xml:space="preserve">
-    <value>Recipients (Use commas to separate)</value>
-  </data>
-  <data name="SendMailDialogTitle" xml:space="preserve">
-    <value>Send Mail</value>
-  </data>
-  <data name="StyleSheetTipTextBlock.Text" xml:space="preserve">
-    <value>Style Sheet</value>
-  </data>
-  <data name="WithMarkdownCheckBox.Content" xml:space="preserve">
-    <value>Send MD files as attachments</value>
-  </data>
-  <data name="BuiltWordPressConfig" xml:space="preserve">
-    <value>Link to WordPress</value>
-  </data>
-  <data name="ExportWordPressMenuItem.Text" xml:space="preserve">
-    <value>Published to WP</value>
-  </data>
-  <data name="WordPressAuthorizeCodeTipTextBlock.Text" xml:space="preserve">
-    <value>Copy the authorization code you get in the browser.</value>
-  </data>
-  <data name="DeleteMailTip" xml:space="preserve">
-    <value>You will delete this Mailbox configuration. Are you sure?</value>
-  </data>
-  <data name="DeleteWordPressTip" xml:space="preserve">
-    <value>You will delete this WordPress configuration. Are you sure?</value>
-  </data>
-  <data name="LanguageTipTextBlock.Text" xml:space="preserve">
-    <value>Language</value>
-  </data>
-  <data name="WordPressManagerTipTextBlock.Text" xml:space="preserve">
-    <value>WordPress Management</value>
-  </data>
-  <data name="NoWordPressConfigTip" xml:space="preserve">
-    <value>You do not have a WordPress account configured, Please add it to the software settings</value>
-  </data>
-  <data name="LineHeightTipTextBlock.Text" xml:space="preserve">
-    <value>Line Height</value>
-  </data>
-  <data name="MoreOptionButton.Content" xml:space="preserve">
-    <value>More</value>
-  </data>
-  <data name="NewWordPressPost" xml:space="preserve">
-    <value>New Post</value>
+  <data name="SingleNote" xml:space="preserve">
+    <value>Single Note</value>
   </data>
   <data name="SiteComboBoxTipTextBlock.Text" xml:space="preserve">
     <value>Site selection</value>
+  </data>
+  <data name="StyleSheet" xml:space="preserve">
+    <value>Style sheet</value>
+  </data>
+  <data name="StyleSheetManagerButtonContentTextBlock.Text" xml:space="preserve">
+    <value>Style sheets</value>
+  </data>
+  <data name="StyleSheetManagerHolderTextBlock.Text" xml:space="preserve">
+    <value>Welcome to Style Sheet Manager</value>
+  </data>
+  <data name="StyleSheetTipTextBlock.Text" xml:space="preserve">
+    <value>Style Sheet Manager</value>
+  </data>
+  <data name="StyleSheetTitleTextBox.PlaceholderText" xml:space="preserve">
+    <value>Style title</value>
+  </data>
+  <data name="Sure" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="TemplateComboTipTextBlock.Text" xml:space="preserve">
+    <value>Template</value>
+  </data>
+  <data name="TemplateContentTextBox.PlaceholderText" xml:space="preserve">
+    <value>Please refer to the instructions on the right for template contents and variables.</value>
+  </data>
+  <data name="TemplateListTextBlock.Text" xml:space="preserve">
+    <value>Template List</value>
+  </data>
+  <data name="TemplateManagerButtonContentTextBlock.Text" xml:space="preserve">
+    <value>Templates</value>
+  </data>
+  <data name="TemplateManagerHolderTextBlock.Text" xml:space="preserve">
+    <value>Welcome to Template Manager</value>
+  </data>
+  <data name="TemplateManagerTextBlock.Text" xml:space="preserve">
+    <value>Template Manager</value>
+  </data>
+  <data name="TemplateTitleTextBox.PlaceholderText" xml:space="preserve">
+    <value>Template title</value>
+  </data>
+  <data name="TestMailSendTip" xml:space="preserve">
+    <value>A test message has been sent to your mailbox. The mailbox is configured correctly if you receive it.</value>
+  </data>
+  <data name="ThemeTipTextBlock.Text" xml:space="preserve">
+    <value>App theme</value>
+  </data>
+  <data name="TimeFormat" xml:space="preserve">
+    <value>yyyy/MM/dd HH:mm</value>
+  </data>
+  <data name="ToBlog" xml:space="preserve">
+    <value>Developer's blog</value>
+  </data>
+  <data name="TwoColumnMenuItem.Text" xml:space="preserve">
+    <value>Double column</value>
+  </data>
+  <data name="UpdateTitle" xml:space="preserve">
+    <value>Update information</value>
   </data>
   <data name="Uploaded" xml:space="preserve">
     <value>Uploaded</value>
   </data>
   <data name="UploadError" xml:space="preserve">
-    <value>Upload failure</value>
+    <value>Failed uploading</value>
+  </data>
+  <data name="VarDateIntroduceTextBlock.Text" xml:space="preserve">
+    <value>Represents the time the note was created. y for year, M for month, d for day, H for hour, m for minute and s for second. You can format it at will like the expression in the parentheses.</value>
+  </data>
+  <data name="VarFileNameIntroduceTextBlock.Text" xml:space="preserve">
+    <value>Represents the name of the file you saved. The file name and the note title are not necessarily identical. The variable should NOT contain the path or the extension.</value>
+  </data>
+  <data name="VarTitleIntroduceTextBlock.Text" xml:space="preserve">
+    <value>Represents the title of the note saved by the app</value>
+  </data>
+  <data name="Waiting" xml:space="preserve">
+    <value>Working...</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Warning</value>
+  </data>
+  <data name="WithMarkdownCheckBox.Content" xml:space="preserve">
+    <value>Send the MD file as an attachment</value>
+  </data>
+  <data name="WordPressAuthorizeCodeDialogTitle" xml:space="preserve">
+    <value>WordPress authorization code</value>
+  </data>
+  <data name="WordPressAuthorizeCodeTipTextBlock.Text" xml:space="preserve">
+    <value>Copy the authorization code you get in the browser.</value>
   </data>
   <data name="WordPressExpiryReAuthority" xml:space="preserve">
-    <value>The token has expired and is being reapplied</value>
+    <value>Token expired. Reapplying...</value>
   </data>
   <data name="WordPressExpiryTip" xml:space="preserve">
-    <value>The token has expired, please click on the corresponding account in the settings to re-authorize</value>
+    <value>The token has expired. Please go to settings and click on the corresponding account to re-authorize.</value>
+  </data>
+  <data name="WordPressManagerTipTextBlock.Text" xml:space="preserve">
+    <value>WordPress account manager</value>
   </data>
   <data name="WPCategoryTipTextBlock.Text" xml:space="preserve">
-    <value>Category selection</value>
+    <value>Category</value>
   </data>
   <data name="WPSlugTipTextBlock.Text" xml:space="preserve">
     <value>Slug</value>
@@ -640,48 +682,111 @@
     <value>Public</value>
   </data>
   <data name="WPTagTipTextBlock.Text" xml:space="preserve">
-    <value>Tag selection</value>
+    <value>Tag</value>
   </data>
-  <data name="ModifyPostMenuItem.Text" xml:space="preserve">
-    <value>Modify Post</value>
+  <data name="WrongPassword" xml:space="preserve">
+    <value>Password error</value>
   </data>
-  <data name="ModifyWordPressPost" xml:space="preserve">
-    <value>Modify Post</value>
+  <data name="ImmerseButton.Content" xml:space="preserve">
+    <value>Immersive Mode</value>
   </data>
-  <data name="NewPostMenuItem.Text" xml:space="preserve">
-    <value>New Post</value>
+  <data name="FindCloseString" xml:space="preserve">
+    <value>Close</value>
   </data>
-  <data name="NoFile" xml:space="preserve">
-    <value>Source file is damaged or lost, please rebind</value>
+  <data name="FindNextString" xml:space="preserve">
+    <value>Find Next</value>
   </data>
-  <data name="PostComboBoxTipTextBlock.Text" xml:space="preserve">
-    <value>Source post</value>
+  <data name="FindPrevString" xml:space="preserve">
+    <value>Find Previous</value>
   </data>
-  <data name="CloseCacheTip" xml:space="preserve">
-    <value>You also have unsaved files. Please choose how to handle them.</value>
+  <data name="FindRegString" xml:space="preserve">
+    <value>Use /re/ syntax for regexp search</value>
   </data>
-  <data name="DeleteJustNote" xml:space="preserve">
-    <value>Just Item</value>
+  <data name="FindReplaceAllString" xml:space="preserve">
+    <value>Replace All</value>
   </data>
-  <data name="DeleteWithFile" xml:space="preserve">
-    <value>Delete File</value>
+  <data name="FindReplaceString" xml:space="preserve">
+    <value>Replace</value>
   </data>
-  <data name="Exit" xml:space="preserve">
-    <value>Exit</value>
+  <data name="FindReplaceTip" xml:space="preserve">
+    <value>Replace:</value>
   </data>
-  <data name="SaveAndExit" xml:space="preserve">
-    <value>Exit after saving</value>
+  <data name="FindSwitchString" xml:space="preserve">
+    <value>Use Shift-Ctrl-F for Replace</value>
   </data>
-  <data name="Warning" xml:space="preserve">
-    <value>Warning</value>
+  <data name="FindTargetTip" xml:space="preserve">
+    <value>With:</value>
   </data>
-  <data name="ToBlog" xml:space="preserve">
-    <value>Developer blog</value>
+  <data name="FindTip" xml:space="preserve">
+    <value>Find:</value>
   </data>
-  <data name="UpdateTitle" xml:space="preserve">
-    <value>Update information</value>
+  <data name="DeleteAll" xml:space="preserve">
+    <value>Delete all</value>
   </data>
-  <data name="WordPressAuthorizeCodeDialogTitle" xml:space="preserve">
-    <value>WordPress Authorization Code</value>
+  <data name="DeleteGroup" xml:space="preserve">
+    <value>Delete group</value>
+  </data>
+  <data name="NoGroup" xml:space="preserve">
+    <value>Ungrouped</value>
+  </data>
+  <data name="NoProject" xml:space="preserve">
+    <value>Note are invalid</value>
+  </data>
+  <data name="BoldButtonTip" xml:space="preserve">
+    <value>Bold</value>
+  </data>
+  <data name="CodeButtonTip" xml:space="preserve">
+    <value>Code</value>
+  </data>
+  <data name="DellineButtonTip" xml:space="preserve">
+    <value>Strikethrough</value>
+  </data>
+  <data name="ExportButtonTip" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="GithubButtonTip" xml:space="preserve">
+    <value>Github resources</value>
+  </data>
+  <data name="ImageButtonTip" xml:space="preserve">
+    <value>Picture Share</value>
+  </data>
+  <data name="IntroduceButtonTip" xml:space="preserve">
+    <value>Description document</value>
+  </data>
+  <data name="ItalicButtonTip" xml:space="preserve">
+    <value>Italic</value>
+  </data>
+  <data name="NewGroupButtonTip" xml:space="preserve">
+    <value>New group</value>
+  </data>
+  <data name="NewNoteButtonTip" xml:space="preserve">
+    <value>New note</value>
+  </data>
+  <data name="PreButtonTip" xml:space="preserve">
+    <value>Pre</value>
+  </data>
+  <data name="SaveButtonTip" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="StyleSheetListTextBlock.Text" xml:space="preserve">
+    <value>Style Sheet List</value>
+  </data>
+  <data name="SubButtonTip" xml:space="preserve">
+    <value>Subscript</value>
+  </data>
+  <data name="SupButtonTip" xml:space="preserve">
+    <value>Superscript</value>
+  </data>
+  <data name="SwitchButtonTip" xml:space="preserve">
+    <value>Switch mode</value>
+  </data>
+  <data name="UnderlineButtonTip" xml:space="preserve">
+    <value>Underline</value>
+  </data>
+  <data name="EditorThemePreviewButton.Content" xml:space="preserve">
+    <value>Theme effect preview</value>
+  </data>
+  <data name="EditorThemeTipTextBlock.Text" xml:space="preserve">
+    <value>Editor theme</value>
   </data>
 </root>
