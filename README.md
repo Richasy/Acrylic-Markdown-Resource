@@ -10,5 +10,5 @@
 
 ## 感谢名单：
 
-- 英文翻译：Chen Zenas
+- 英文翻译：[Chen Zenas](https://github.com/czyczk)
 - 俄语翻译：[Pavel Kondratev](https://github.com/BobbyKitten)
